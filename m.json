@@ -1,0 +1,22 @@
+{
+  "title": "M_title",
+  "description": "M_description",
+  "thumbnail": "M_thumbnail",
+  "thumbnail_url": "M_thumbnail_url",
+  "thumbnail_large": "M_thumbnail_large",
+  "author_name": "M_author_name",
+  "name": "M_name",
+  "summary": "M_summary",
+  "image": "M_image",
+  "poster": "M_poster",
+  "url": "M_url",
+  "link": "M_link",
+  "html": "M_html",
+  "video": { "title": "V_title", "description": "V_description", "thumbnail": "V_thumbnail", "image": "V_image" },
+  "data": { "title": "D_title", "description": "D_description", "thumbnail": "D_thumbnail", "attributes": { "title": "DA_title", "description": "DA_description" } },
+  "result": { "title": "R_title", "description": "R_description", "thumbnail": "R_thumbnail" },
+  "response": { "title": "RESP_title", "description": "RESP_description" },
+  "snippet": { "title": "S_title", "description": "S_description", "thumbnails": { "default": { "url": "S_thumb_url" } } },
+  "meta": { "title": "META_title", "description": "META_description" },
+  "info": { "title": "INFO_title", "description": "INFO_description" }
+}

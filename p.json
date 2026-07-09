@@ -1,0 +1,11 @@
+{
+  "title": "K_title",
+  "description": "K_description",
+  "thumbnail": "K_thumbnail",
+  "thumbnail_url": "K_thumbnail_url",
+  "author_name": "K_author_name",
+  "name": "K_name",
+  "summary": "K_summary",
+  "image": "K_image",
+  "items": [ { "snippet": { "title": "ITEMS_title", "description": "ITEMS_description", "thumbnails": { "default": { "url": "ITEMS_thumb_url" } } } } ]
+}
